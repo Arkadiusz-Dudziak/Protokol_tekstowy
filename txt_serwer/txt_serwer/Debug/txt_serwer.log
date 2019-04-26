@@ -1,0 +1,14 @@
+﻿  txt_serwer.cpp
+c:\users\adudz\desktop\3semestr\technologie sieciowe\retinger_3.5\txt_serwer\txt_serwer\txt_serwer.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: makro jest niezdefiniowane lub definicja różni się po użyciu prekompilowanego nagłówka
+  c:\users\adudz\desktop\3semestr\technologie sieciowe\retinger_3.5\txt_serwer\txt_serwer\txt_serwer.cpp(1): note: Dodaj makro do prekompilowanego nagłówka, zamiast definiować go w tym miejscu
+  c:\users\adudz\desktop\3semestr\technologie sieciowe\retinger_3.5\txt_serwer\txt_serwer\txt_serwer.cpp(2): note: użyj prekompilowanego nagłówka
+c:\users\adudz\desktop\3semestr\technologie sieciowe\retinger_3.5\txt_serwer\txt_serwer\txt_serwer.cpp(46): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\adudz\desktop\3semestr\technologie sieciowe\retinger_3.5\txt_serwer\txt_serwer\txt_serwer.cpp(119): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\adudz\desktop\3semestr\technologie sieciowe\retinger_3.5\txt_serwer\txt_serwer\txt_serwer.cpp(318): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\adudz\desktop\3semestr\technologie sieciowe\retinger_3.5\txt_serwer\txt_serwer\txt_serwer.cpp(325): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\adudz\desktop\3semestr\technologie sieciowe\retinger_3.5\txt_serwer\txt_serwer\txt_serwer.cpp(332): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\adudz\desktop\3semestr\technologie sieciowe\retinger_3.5\txt_serwer\txt_serwer\txt_serwer.cpp(344): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\adudz\desktop\3semestr\technologie sieciowe\retinger_3.5\txt_serwer\txt_serwer\txt_serwer.cpp(350): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\adudz\desktop\3semestr\technologie sieciowe\retinger_3.5\txt_serwer\txt_serwer\txt_serwer.cpp(382): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\adudz\desktop\3semestr\technologie sieciowe\retinger_3.5\txt_serwer\txt_serwer\txt_serwer.cpp(447): warning C4101: "sendbuf": lokalna zmienna, do której nie istnieje odwołanie
+  txt_serwer.vcxproj -> C:\Users\adudz\Desktop\3semestr\Technologie sieciowe\RETINGER_3.5\txt_serwer\Debug\txt_serwer.exe
